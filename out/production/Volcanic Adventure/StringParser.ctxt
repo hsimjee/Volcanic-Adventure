@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=StringParser()
+comment1.params=input
+comment1.target=java.lang.String\ formatString(java.lang.String)
+comment2.params=input
+comment2.target=java.lang.String\ getCommand(java.lang.String)
+comment3.params=input
+comment3.target=java.lang.String\ getPhrase(java.lang.String)
+numComments=4

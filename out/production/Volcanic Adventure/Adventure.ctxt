@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=args
+comment0.target=void\ main(java.lang.String[])
+comment1.params=
+comment1.target=void\ initializeWorld()
+comment2.params=
+comment2.target=void\ displayCurrentArea()
+comment3.params=
+comment3.target=void\ getUserInput()
+comment4.params=
+comment4.target=void\ parseUserInput()
+comment5.params=
+comment5.target=void\ displayFarewellMessageAndScore()
+comment6.params=
+comment6.target=void\ inventoryDisplay()
+comment7.params=direction
+comment7.target=void\ move(java.lang.String)
+numComments=8

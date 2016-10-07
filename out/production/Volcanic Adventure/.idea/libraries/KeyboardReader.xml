@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="KeyboardReader">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../Learning Java/Resources/Course Materials/KeyboardReader.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
